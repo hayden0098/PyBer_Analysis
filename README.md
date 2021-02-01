@@ -6,11 +6,11 @@ In order to help PyBer, a Python based ride-sharing app company, improve access 
 ## Result of PyBer Analysis
 From the PyBer Analysis, we provide a multiple line graph that shows the total weekly fare for each city type and a ride-sharing summary DataFrame group by city type.
 
-first of all, in the ride-sharing summary DataFrame we can see that the total number of rides, drivers and fares are increasing as the scale of the city increase. But the average fare per Ride and per driver are decreaseing as the scale of the city increase. 
+First of all, in the ride-sharing summary DataFrame we can see that the total number of rides, drivers and fares are increasing as the scale of the city increase. But the average fare per Ride and per driver are decreaseing as the scale of the city increase. 
 
 ![ride_sharing_summary_df](https://github.com/hayden0098/PyBer_Analysis/blob/main/analysis/ride_sharing_summary_df.jpg)
 
-secondly, the multiple line graph shows total fare of urban every week is having the most total fare compare to type Rural and Suburban of city, the Rural city is having the lowest totla fare. 
+Secondly, the multiple line graph shows total fare of urban every week is having the most total fare compare to type Rural and Suburban of city, the Rural city is having the lowest totla fare. 
 
 ![PyBer_fare_summary](https://github.com/hayden0098/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
